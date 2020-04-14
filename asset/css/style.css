@@ -1,0 +1,23 @@
+.jumbotron {
+    background-image: url('../img/img.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -50px;
+    color: #eaeaea;
+    overflow: hidden;
+}
+
+.jumbotron h1, .jumbotron p {
+    text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+
+.asd {
+    background-image: url('../img/img.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -50px;
+}
+
+.cv {
+    background-image: url(../img/img.png);
+}
